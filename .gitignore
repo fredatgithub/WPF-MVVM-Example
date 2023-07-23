@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MVVM Example/bin/Debug
+/MVVM Example/obj/Debug
+/packages/System.Windows.Interactivity.WPF.2.0.20525
